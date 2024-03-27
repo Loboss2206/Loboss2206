@@ -2,10 +2,10 @@
 
 ## :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently pursuing studies at Polytech Nice-Sophia. \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Enthusiastic about AI and dedicated to driving innovation in the field. \
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Devoted to problem-solving and streamlining daily tasks through automation. \
-&nbsp;&nbsp;&nbsp;:fr: &nbsp;Residing in France.
+&nbsp;&nbsp;&nbsp; :technologist: &nbsp;Currently pursuing studies at Polytech Nice-Sophia. \
+&nbsp;&nbsp;&nbsp; :seedling: &nbsp;Enthusiastic about AI and dedicated to driving innovation in the field. \
+&nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Devoted to problem-solving and streamlining daily tasks through automation. \
+&nbsp;&nbsp;&nbsp; :fr: &nbsp;Residing in France.
 
 <p align="center">
   <a href="mailto:b.logan006@gmail.com?subject=Bonjour Logan Brunet"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;

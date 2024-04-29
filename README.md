@@ -3,8 +3,8 @@
 ## :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp; :technologist: &nbsp;Currently pursuing studies at Polytech Nice-Sophia. \
-&nbsp;&nbsp;&nbsp; :seedling: &nbsp;Enthusiastic about AI and dedicated to driving innovation in the field. \
-&nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Devoted to problem-solving and streamlining daily tasks through automation. \
+&nbsp;&nbsp;&nbsp; :seedling: &nbsp;Driven by a fervent passion for both cybersecurity and software development, dedicated to fostering innovation in these fields. \
+&nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Committed to problem-solving and enhancing the cybersecurity landscape. \
 &nbsp;&nbsp;&nbsp; :fr: &nbsp;Residing in France.
 
 <p align="center">
